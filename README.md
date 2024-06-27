@@ -4,6 +4,6 @@
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,js,discord,figma,gcp,gradle,idea,linux,kali,nodejs,react" />
     <br>
-     <img src="https://skillicons.dev/icons?i=kafka,matlab,tensorflow," />
+     <img src="https://skillicons.dev/icons?i=kafka,matlab,tensorflow,sklearn" />
   </a>
 </p>
